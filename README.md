@@ -1,24 +1,3 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This project as created as an student [assignment](https://www.theodinproject.com/courses/web-development-101/lessons/your-first-rails-application) for The Odin Project. The goal of the assignment is to install the rails application and dependencies and have it deployed to the Heroku website.
